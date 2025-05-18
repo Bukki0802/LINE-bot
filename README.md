@@ -4,8 +4,6 @@ LINEで二人の間の貸し借りを管理するためのコードです。
 夫婦間、カップル間、友人間といった、「いくら貸したっけ？」「いくら建て替えたっけ？」を管理します。
 LINEで管理がしたかったことに加え、既存のアプリの機能が自分には多すぎたり少なかったので、作りました。
 
-# Write a complete README.md based on the provided Code.gs
-readme = """# LINE Payment Bot (Google Apps Script)
 
 このリポジトリは、LINE Messaging API と Google Apps Script を使って「みずたに／そのだ」の支払い情報を入力・管理・通知する BOT です。  
 メッセージの対話フロー（支払者選択 → 日付 → 場所 → 金額 → 割り勘・重複確認 → 保存 → 通知）を一連で自動化します。
