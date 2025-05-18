@@ -9,7 +9,7 @@ LINEで管理がしたかったことに加え、既存のアプリの機能が�
 ![ツール実行画面](assets/images/menu.jpg)
 ![メニューボタン画面](assets/images/flow.jpg)
 
-このリポジトリは、LINE Messaging API と Google Apps Script を使って「みずたに／そのだ」の支払い情報を入力・管理・通知する BOT です。  
+このリポジトリは、LINE Messaging API と Google Apps Script を使って2人のユーザーの支払い情報を入力・管理・通知する BOT です。  
 メッセージの対話フロー（支払者選択 → 日付 → 場所 → 金額 → 割り勘・重複確認 → 保存 → 通知）を一連で自動化します。
 
 ---
